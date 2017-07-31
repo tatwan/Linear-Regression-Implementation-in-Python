@@ -1,5 +1,4 @@
 # Machine_Learning_Python
-Machine Learning Course in Python
+Machine Learning Course
 
-Andrew Ng Machine Learning Course in Python. My goal is to write and explain by 1) using only Python and 
-needed libraries like NumPy, Pandas, Matplotlob and SciPy. 2) Using a library like Scikit-Learn 
+My attempt to translate Andrew Ng's Machine Learning Course into Python & R: 1) Python & R Explanation 2) Python & R Code solutions. This is WIP.

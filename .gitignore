@@ -1,6 +1,6 @@
 .DS_Store
-.ipynb_checkpoints
 */.ipynb_checkpoints/*
 octave-workspace
 playground
-.ipynb
+.ipynb_checkpoints
+.gitignore
